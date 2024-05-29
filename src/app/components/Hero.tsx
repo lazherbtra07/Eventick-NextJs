@@ -24,7 +24,7 @@ export const Hero = () => {
       <div className=" container h-[550px] lg:h-fit lg:flex     items-center ">
         <div className="absolute top-[80px]  lg:top-[100px]  md:left-[25%] md:right-[25%]   lg:left-[71px] lg:w-1/2">
           <Image
-            className=" h-[300px] md:h-[300px]"
+            className=" h-[300px] md:h-[300px] lg:h-[350px]"
             alt="pang"
             src={"/pngguru 2.png"}
             width={636}
